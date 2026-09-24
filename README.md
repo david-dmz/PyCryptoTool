@@ -18,7 +18,7 @@
 1. **Cloner le dépôt :**
 
 ```bash
-   git clone https://github.com/votre-nom-utilisateur/PyCryptoTool.git
+   git clone https://github.com/david-mz/PyCryptoTool.git
    cd PyCryptoTool
 ```
 
